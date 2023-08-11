@@ -1,0 +1,16 @@
+Buenos dias,
+
+Nombre: Esdras Abiel Clother Paz
+Cuenta: 202010010048
+
+Comparto enlace para poder visualizar mi proyecto final en internet:
+http://crudempresas.rf.gd/index.php
+
+De igual forma comparto enlace de github para poder vizualizar el codigo en esta plataforma si asi lo desea:
+
+
+El backup de la base de datos se encuenta en la carpeta "./BackupBD"
+
+Cualquier consulta quedo a la orden: esdras.clother@outlook.com
+
+Saludos.
